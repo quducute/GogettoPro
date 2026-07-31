@@ -1,4 +1,6 @@
-# GogettoPro – a modern skin for EDOPro
+# GogettoPro
+
+![Static Badge](https://img.shields.io/badge/Master_Duel-inspired-blue?style=for-the-badge)
 
 <p align="center">
   <img src="screenshots/screenshot01.png" width="24%" alt="Menu" />
@@ -6,6 +8,8 @@
   <img src="screenshots/screenshot03.png" width="24%" alt="Duel" />
   <img src="screenshots/screenshot04.png" width="24%" alt="Servers" />
 </p>
+
+_A modern skin for EDOPro._
 
 ---
 
@@ -41,7 +45,3 @@ This skin builds on textures and artwork from these talented creators:
 | [World Championship Banner](https://www.yugioh-card.com/eu/wp-content/uploads/2022/09/WCS-hero-banner.webp)                                  | Konami          |
 
 _All credit for the original artwork goes to their respective creators. This is only a non-commercial fan project._
-
----
-
-⭐ **If you like this skin, consider giving the repo a star!** ⭐
