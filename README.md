@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Master_Duel-inspired-blue?style=for-the-badge)
 
-<p align="center">
+<p>
   <img src="screenshots/screenshot01.png" width="24%" alt="Menu" />
   <img src="screenshots/screenshot02.png" width="24%" alt="Decks" />
   <img src="screenshots/screenshot03.png" width="24%" alt="Duel" />
