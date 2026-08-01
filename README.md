@@ -22,15 +22,15 @@ _A modern skin for EDOPro._
 2. Open it and press **Extract**. The destination is already filled in as **`C:\ProjectIgnis\skin`** (change it if you installed **EDOPro** somewhere else)
 3. Launch **EDOPro** → **Settings** → set **Skin** to **GogettoPro** → press **Reload skin**
 
-> [!TIP]
-> Looking for decks? Thousands of **`.ydk`** files are available here: **<https://ygoprodeck.com>**
-
 ## 🧩 Recommended Add-ons
 
-| Add-on                                                                                               | Author                                  |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| [HD Card Pack](https://drive.google.com/drive/folders/19hDyCRRXOk1DdjTVjaGnd5avgt5myxNO?usp=sharing) | Fudo Yusei _(EDOPro HD Facebook Group)_ |
-| [EDOPRO Soundpack](https://github.com/Lahrenheit/EDOPRO-Soundpack)                                   | Lahrenheit                              |
+| Add-on                                                                                               | Author                                                                            |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [HD Card Pack](https://drive.google.com/drive/folders/19hDyCRRXOk1DdjTVjaGnd5avgt5myxNO?usp=sharing) | Fudo Yusei ([EDOPro HD Facebook Group](https://www.facebook.com/groups/edoprohd)) |
+| [EDOPRO Soundpack](https://github.com/Lahrenheit/EDOPRO-Soundpack)                                   | Lahrenheit                                                                        |
+
+> [!TIP]
+> Looking for decks? Thousands of **`.ydk`** files are available here: **<https://ygoprodeck.com>**
 
 ## ©️ Credits
 
