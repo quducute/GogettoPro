@@ -2,14 +2,13 @@
 
 ![Static Badge](https://img.shields.io/badge/Master_Duel-inspired-blue?style=for-the-badge)
 
-<p>
+<p align="center">
   <img src="screenshots/screenshot01.png" width="24%" alt="Menu" />
   <img src="screenshots/screenshot02.png" width="24%" alt="Decks" />
   <img src="screenshots/screenshot03.png" width="24%" alt="Duel" />
   <img src="screenshots/screenshot04.png" width="24%" alt="Servers" />
+  <em>Modern skin for <strong>EDOPro</strong>.</em>
 </p>
-
-_A modern skin for EDOPro._
 
 ---
 
@@ -24,10 +23,11 @@ _A modern skin for EDOPro._
 
 ## 🧩 Recommended Add-ons
 
-| Add-on                                                                                               | Author                                                                            |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [HD Card Pack](https://drive.google.com/drive/folders/19hDyCRRXOk1DdjTVjaGnd5avgt5myxNO?usp=sharing) | Fudo Yusei ([EDOPro HD Facebook Group](https://www.facebook.com/groups/edoprohd)) |
-| [EDOPRO Soundpack](https://github.com/Lahrenheit/EDOPRO-Soundpack)                                   | Lahrenheit                                                                        |
+| Add-on                                                                                                         | Author                                                                            |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Vietnamese Translation](https://drive.google.com/drive/folders/1oNl2V1Hyxov3vQWVmJVI2BADEwiAWZeS?usp=sharing) | Fudo Yusei ([EDOPro HD Facebook Group](https://www.facebook.com/groups/edoprohd)) |
+| [HD Card Pack](https://drive.google.com/drive/folders/19hDyCRRXOk1DdjTVjaGnd5avgt5myxNO?usp=sharing)           | Fudo Yusei ([EDOPro HD Facebook Group](https://www.facebook.com/groups/edoprohd)) |
+| [EDOPRO Soundpack](https://github.com/Lahrenheit/EDOPRO-Soundpack)                                             | Lahrenheit                                                                        |
 
 > [!TIP]
 > Looking for decks? Thousands of **`.ydk`** files are available here: **<https://ygoprodeck.com>**
